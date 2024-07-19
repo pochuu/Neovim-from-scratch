@@ -86,7 +86,7 @@ return packer.startup(function(use)
 	-- Treesitter
 	use {
 		"nvim-treesitter/nvim-treesitter",
-		commit = "226c1475a46a2ef6d840af9caa0117a439465500",
+		commit = "4e387dd47833c1bb8c8df6c3a7cab0d4c55583f3",
 	}
 
 	-- Git
